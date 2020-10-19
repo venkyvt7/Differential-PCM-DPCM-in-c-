@@ -3,7 +3,7 @@ Differential Pulse Code Modulation and Demodulation along with the input signal 
 
 
 
-<h1> THIS IS C++ WRITTEN CODE OF  Differential PCM (DPCM) <h1>
+<h3> THIS IS C++ WRITTEN CODE OF  Differential PCM (DPCM) </h3>
 
 It contains :
 <ul> MESSAGE SIGNAL OF SINE WAVE <ul>
